@@ -1,7 +1,7 @@
 # Hi there, I'm Yahya! 👋
 
 ### 👨‍💻 Computer Programming Student @ Sakarya University of Applied Sciences
-Yazılım geliştirme tutkusu olan, **.NET** ve **Modern Web Teknolojileri** üzerine odaklanan bir geliştiriciyim. Şu anda kurumsal mimariler ve dinamik web uygulamaları üzerine projeler geliştiriyorum.
+I am a passionate developer focusing on **.NET** and **Modern Web Technologies**. I enjoy building enterprise-level architectures and dynamic web applications.
 
 ---
 
@@ -34,10 +34,10 @@ Yazılım geliştirme tutkusu olan, **.NET** ve **Modern Web Teknolojileri** üz
 
 ### 🔥 Featured Projects
 
-| 🏗️ **Etiyopya Web Project** | 🎬 **Movie App** | ✅ **ToDo List** |
-|:---:|:---:|:---:|
-| Kurumsal kimlik odaklı, **ASP.NET MVC** ve **MSSQL** kullanılarak geliştirilen dinamik web yönetim sistemi. | **JavaScript** ve **LocalStorage** kullanılarak yapılan, veri kalıcılığı sağlayan görev takip uygulaması. |
-| [Proje Kodları](https://github.com/yahya4141/Etiyopya-Project) | [Proje Kodları](https://github.com/yahya4141/staj) |
+| 🏗️ **Ethiopia Web Project** | ✅ **ToDo List App** |
+|:---:|:---:|
+| A dynamic web management system focused on corporate identity, developed using **ASP.NET MVC** and **MSSQL**. | A task management application ensuring data persistence using **JavaScript** and **LocalStorage**. |
+| [View Code](https://github.com/yahya4141/Etiyopya-Project) | [View Code](https://github.com/yahya4141/staj) |
 
 ---
 
@@ -49,7 +49,7 @@ Yazılım geliştirme tutkusu olan, **.NET** ve **Modern Web Teknolojileri** üz
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact with Me
 <p align="left">
 <a href="mailto:aynaaciyahya1941@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
