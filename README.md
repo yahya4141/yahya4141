@@ -37,7 +37,7 @@ I am a passionate developer focusing on **.NET** and **Modern Web Technologies**
 | 🏗️ **Ethiopia Web Project** | ✅ **ToDo List App** |
 |:---:|:---:|
 | A dynamic web management system focused on corporate identity, developed using **ASP.NET MVC** and **MSSQL**. | A task management application ensuring data persistence using **JavaScript** and **LocalStorage**. |
-| [View Code](https://github.com/yahya4141/Etiyopya-Project) | [View Code](https://github.com/yahya4141/staj) |
+| [View Code](https://github.com/yahya4141/Ethiopia-Web-Project) | [View Code](https://github.com/yahya4141/staj) |
 
 ---
 
