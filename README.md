@@ -36,8 +36,8 @@ Yazılım geliştirme tutkusu olan, **.NET** ve **Modern Web Teknolojileri** üz
 
 | 🏗️ **Etiyopya Web Project** | 🎬 **Movie App** | ✅ **ToDo List** |
 |:---:|:---:|:---:|
-| Kurumsal kimlik odaklı, **ASP.NET MVC** ve **MSSQL** kullanılarak geliştirilen dinamik web yönetim sistemi. | **.NET Core** ve modern arayüz tasarımı ile geliştirilmiş film arşiv ve yönetim uygulaması. | **JavaScript** ve **LocalStorage** kullanılarak yapılan, veri kalıcılığı sağlayan görev takip uygulaması. |
-| [Proje Kodları](https://github.com/yahya4141/Etiyopya-Project) | [Proje Kodları](https://github.com/yahya4141/Movie-App-Project) | [Proje Kodları](https://github.com/yahya4141/staj) |
+| Kurumsal kimlik odaklı, **ASP.NET MVC** ve **MSSQL** kullanılarak geliştirilen dinamik web yönetim sistemi. | **JavaScript** ve **LocalStorage** kullanılarak yapılan, veri kalıcılığı sağlayan görev takip uygulaması. |
+| [Proje Kodları](https://github.com/yahya4141/Etiyopya-Project) | [Proje Kodları](https://github.com/yahya4141/staj) |
 
 ---
 
@@ -51,7 +51,7 @@ Yazılım geliştirme tutkusu olan, **.NET** ve **Modern Web Teknolojileri** üz
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="mailto:seninmailin@gmail.com">
+<a href="mailto:aynaaciyahya1941@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
